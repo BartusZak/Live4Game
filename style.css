@@ -1,0 +1,59 @@
+body {color:#ffffff;margin:0 auto;background: url(images/bg.jpg) #000 no-repeat;font-family:arial;font-size:17px;}
+header {margin:45px 0 10px 0;height:100px;}
+article {width:1090px;background-color:#000;float:left;padding-bottom:10px;}
+
+article p {text-align:left;padding:0px 35px 0px 35px;text-shadow:2px 2px 4px #000;}
+article h1 {font-size:35px;font-weight:bold;margin:27px 35px 27px 35px;}
+
+a {text-decoration:none;color:#ffffff;}
+a:hover {color:#999999;}
+img {border:0;}
+
+.wsp {font-size:13px;color:#666666;font-family:tahoma;float: right;margin-top:10px;}
+
+.center {width:1326px;margin:0 auto;}
+#jezyk {font-size:11px;color:#a7a7a8;font-family:tahoma;margin-top:10px;text-align:right;}
+#logo {float:left;margin-left:30px;}
+#sponsorzy {float:right;margin-top:50px;margin-right:-100px;}
+#teamspeak {width:219px;margin-left:12px; float:left;}
+#informacje {color:#a4a4a4;margin-left:15px;text-align:left;text-transform:uppercase;font-size:12px;float:left;}
+#druzyny {color:#ffffff;margin-left:0px;float:left;width:1100px;}
+
+#teamspeak h4 {margin:40px 0 0 0;padding:0px;color:#ffbf16;}
+#teamspeak .fb {background:url(images/fb.png) no-repeat;width:200px;height:99px;margin-left:-11px;}
+
+table tr {margin:0px;padding:0px;}
+.opacity {background:rgba(0,0,0, 0.7);border:1px solid #222222;color:#fff;}
+
+footer {
+	background: -webkit-linear-gradient(transparent, #000);
+	background: -moz-linear-gradient(transparent, #000);
+	background: -ms-linear-gradient(transparent, #000);
+	background: linear-gradient(transparent, #000);
+	border-top:1px solid #a6a6a7;
+	height:280px;
+	margin-top:30px;
+	padding-top:60px;
+	
+}
+a:visited {
+		color: darkred;
+	}
+a:hover {
+		color: white;
+		font-weight: bold;
+	}
+
+#buttons {text-align:right;margin-right:20px;font-size:11px;margin-top:20px;}
+
+.box {font-size:12px;float:left;margin-left:45px;}
+.box:first-child {margin-left:0px;}
+.box p {text-transform:uppercase;margin:0;font-weight:bold;}
+.box .nobold {font-weight:normal;}
+.box h3 {padding-bottom:15px;margin:0;}
+.pasek {font-size:10px;text-align:center;padding-bottom:50px;}
+
+.datagrid table { border-collapse: collapse; text-align: left;} 
+.datagrid table td, .datagrid table th { padding:0 15px 0 0px;}
+.datagrid table tbody td:first-child { border-left: none; }
+.datagrid table tbody tr:last-child td { border-bottom: none; }
